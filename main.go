@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	port = ":50051"
+	port = ":8888"
 )
 
 type server struct {
