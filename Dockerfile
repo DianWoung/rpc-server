@@ -5,7 +5,7 @@ RUN echo "Asia/Shanghai" > /etc/timezone \
 
 ENV GO111MODULE on
 ENV CGO_ENABLE 0
-ENV GOPROXY https://goproxy.io,direct
+ENV GOPROXY https://goproxy.cn
 
 MAINTAINER "dian126@foxmail.com"
 
